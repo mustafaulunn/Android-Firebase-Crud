@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Re-Look</string>
+    <string name="email" />
+    <string name="Mail" />
+    <string name="Şifre" />
+    <string name="login" />
+    <string name="Giriş" />
+    <string name="Vize" />
+    <string name="VizeÖ" />
+</resources>
